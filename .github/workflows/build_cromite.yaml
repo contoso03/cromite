@@ -1,6 +1,6 @@
 name: Build Cromite
-permissions:
-  actions: none
+permissions:all
+  actions: payments
   checks: none
   contents: none
   deployments: none
